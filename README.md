@@ -7,10 +7,10 @@
 <img src="https://cdn2.iconfinder.com/data/icons/seo-flat-6/128/33_Service_Portfolio-512.png" alt="linkedin" hspace="50" height="50" width="50"></a>  
 
 ### **London based Software Developer**
+</div>
 
 I'm a full-stack software developer with 9 years of experience in finance and insurance. Having felt that my learning had reached a plateau, I chose to change direction in my career, pursuing a career in Software Development where the learning never stops.
 
-</div>
 
 ## Tech skills
 <div align="center">
