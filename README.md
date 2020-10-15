@@ -15,10 +15,9 @@ I'm a full-stack software developer with 9 years of experience in finance and in
 ## Tech skills
 <div align="center">
 <a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/JavaScript-508%20commits-orange.svg" alt=""></a>
-<a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/Ruby-138%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/CSS-425%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/HTML-409%20commits-orange.svg" alt=""></a>
-
+<a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/Ruby-138%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/SQL-11%20commits-orange.svg" alt=""></a>
 </div>
 
