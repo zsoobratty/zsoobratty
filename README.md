@@ -21,11 +21,11 @@ I'm a full-stack software developer with 9 years of experience in finance and in
 <a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/SQL-11%20commits-orange.svg" alt=""></a>
 </div>
 
-#### **Working with technologies like:** 
+### Working with technologies like:
 Node.js, Express, React, Hooks, Redux, ContextAPI, MongoDB, AWS, PostgreSQL, Material-UI, Bootstrap, CSS preprocessors, Ruby on Rails, Sinatra
 
-#### **Using industry practices like:**
-Test-driven development, pair-programming, agile methodology, continuous implementation
+### Using industry practices like:
+Test-driven development, pair-programming, agile methodology, continuous implementation, semantic HTML, accessibility
 
 ## What am I up to?
 - 🔭 I’m currently working on ... a Cryptocurrency tracking app - [CryptoTracking](https://github.com/zsoobratty/cryptotracking)
@@ -33,4 +33,4 @@ Test-driven development, pair-programming, agile methodology, continuous impleme
 - 🤔 I’m looking for help with ... securing a software developer role
 - 💬 Ask me about ... my journey to software development
 - 📫 How to reach me: Connect with me on [LinkedIn](https://www.linkedin.com/in/ziad-soobratty/), or visit my [portfolio](https://ziad-soobratty.netlify.app/)
-- ⚡ Fun fact: Coder by day, chef by night! ... and by day for breakfast... and midday for lunch.
+- ⚡ Fun fact: Coder by day, chef by night! ... and by day for breakfast... and midday for lunch
