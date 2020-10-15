@@ -12,7 +12,7 @@ I'm a full-stack software developer with 9 years of experience in finance and in
 
 </div>
 
-## Technologies
+## Tech skills
 <div align="center">
 <a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/JavaScript-508%20commits-orange.svg" alt=""></a>
 <a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/Ruby-138%20commits-orange.svg" alt=""></a>
@@ -21,6 +21,12 @@ I'm a full-stack software developer with 9 years of experience in finance and in
 
 <a href="https://sourcerer.io/zsoobratty"><img src="https://img.shields.io/badge/SQL-11%20commits-orange.svg" alt=""></a>
 </div>
+
+#### **Working with technologies like:** 
+Node.js, Express, React, Hooks, Redux, ContextAPI, MongoDB, AWS, PostgreSQL, Material-UI, Bootstrap, CSS preprocessors, Ruby on Rails, Sinatra
+
+#### **Using industry practices like:**
+Test-driven development, pair-programming, agile methodology, continuous implementation
 
 ## What am I up to?
 - 🔭 I’m currently working on ... a Cryptocurrency tracking app - [CryptoTracking](https://github.com/zsoobratty/cryptotracking)
