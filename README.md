@@ -22,7 +22,7 @@ I'm a full-stack software developer with 9 years of experience in finance and in
 </div>
 
 ### Working with technologies like:
-Node.js, Express, React, Hooks, Redux, ContextAPI, MongoDB, AWS, PostgreSQL, Material-UI, Bootstrap, CSS preprocessors, Ruby on Rails, Sinatra
+Node.js, Express, React, Hooks, Redux, ContextAPI, MongoDB, AWS, SQL, PostgreSQL, Material-UI, Bootstrap, CSS preprocessors, Ruby on Rails, Sinatra
 
 ### Using industry practices like:
 Test-driven development, pair-programming, agile methodology, continuous implementation, semantic HTML, accessibility
